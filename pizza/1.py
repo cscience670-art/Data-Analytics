@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-uhhi 
+
 transactions = pd.read_csv("transaction.csv")
 products = pd.read_csv("product.csv") 
 price_history = pd.read_csv("price_history.csv")
